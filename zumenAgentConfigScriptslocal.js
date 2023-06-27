@@ -9,7 +9,7 @@ db.mappingstore.drop()
 
 //One time connection configuration
 db.user_connection_detail.insert({connection:"SAP_ON_PREMISE_ECC",
-connectionType:"ENTERPRISE_RESOURCE_PLANNING",ipAddress:"/H/90.10.150.238/S/3300",
+connectionType:"ENTERPRISE_RESOURCE_PLANNING",ipAddress:"/H/10.90.10.153/S/3300",
 orgId:"buy4adad087f601",userName:"zumen",password:"Zumen@1234",systemNR:"00",clientNR:"900",language:"EN"})
 
 
